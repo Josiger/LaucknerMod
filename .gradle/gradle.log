@@ -5,11 +5,11 @@
  R4wk, ZeuX, IngisKahn, bspkrs
  MCP Data version : snapshot_20141130
 ****************************
-:extractMcpData UP-TO-DATE
+:extractMcpData
 :getVersionJson
-:extractUserDev UP-TO-DATE
+:extractUserDev
 :genSrgs SKIPPED
-:extractNatives UP-TO-DATE
+:extractNatives
 :getAssetsIndex
 :getAssets
 :makeStart
@@ -21,10 +21,7 @@
 :mergeJars SKIPPED
 :deobfuscateJar SKIPPED
 :decompile SKIPPED
-:processSources
-Injecting fml files
-Applying fml patches
-Applying forge patches
+:processSources SKIPPED
 :remapJar SKIPPED
 :extractMinecraftSrc SKIPPED
 :recompMinecraft SKIPPED
@@ -37,4 +34,4 @@ Applying forge patches
 
 BUILD SUCCESSFUL
 
-Total time: 1 mins 36.814 secs
+Total time: 1 mins 56.655 secs
